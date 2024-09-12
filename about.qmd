@@ -1,6 +1,15 @@
 ---
 title: "About"
-
+links:
+    - icon: twitter
+      text: twitter
+      href: https://x.com/IluAhmad_
+    - icon: github
+      text: Github
+      href: https://github.com/Iluahmad
+    - icon: envelope
+      text: Email
+      href: iluahmad7@yahoo.com
 ---
 
 About this site
@@ -15,3 +24,10 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 ```{r}
 1 + 1
 ```
+links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com

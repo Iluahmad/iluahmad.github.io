@@ -4,14 +4,14 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1 + 1\n\n[1] 3\n\n\n\n1 + 1\n\n[1] 2"
+    "text": "About this site This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1 + 1\n\n[1] 3\n\n\n\n1 + 1\n\n[1] 2\n\n\nlinks: - icon: twitter text: twitter href: https://twitter.com - icon: github text: Github href: https://github.com"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Mr. Ahmad Ilu",
     "section": "",
-    "text": "Ahmad Ilu is an Economist and a Policy Researcher at the Nigerian Economic Summit Group. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana."
+    "text": "Ahmad Ibraheem Ilu is an Economist and a Policy Researcher at the Nigerian Economic Summit Group (NESG). Ahmad Ilu is passionate on specializing in research on Macroeconomic Models such as DSGE-based models, Financial Economics, Monetary Economics, Applied Econometrics, and Islamic Economics. My extensive knowledge and experience have enabled me to participate in interviews on various live TV programs, where I analyze and discuss contemporary Macroeconomic issues, financial markets, and monetary and fiscal policies. I am proficient in the use of various:\n• Document Preparation Software: Microsoft Word, PowerPoint, Excel, Latex, and R Markdown\n• Statistical software tools: (R & RStudio), Python, EViews, STATA, Matlab, and Dynare."
   },
   {
     "objectID": "index.html#education",

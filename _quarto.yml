@@ -10,7 +10,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-
+      - Publications.qmd
 format:
   html:
     theme: sandstone
