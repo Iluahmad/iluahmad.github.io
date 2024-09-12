@@ -1,11 +1,38 @@
 ---
-title: "Iluahmad"
+title: "Mr. Ahmad Ilu"
+image: AHMAD US soft.jpg
+about:
+  template: trestles
+  image-width: 15em
+  image-shape: round
+links:
+- icon: envelope
+  text: Email
+  href: iluahmad7@yahoo.com
+- icon: twitter
+  text: Twitter
+  href: https://x.com/IluAhmad_
+- icon: github
+  text: Github
+  href: https://github.com/Iluahmad
+  
 ---
 
-This is a Quarto website.
+Ahmad Ilu is an Economist and a Policy Researcher at the Nigerian Economic Summit Group. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
 
-```{r}
-1 + 1
-```
+Bayero University Kano, BUK | Kano, Nigeria
+Msc Economics | March 2018 - December 2020
+
+Northwest University Kano | Kano, Nigeria
+BSc Economics | March 2012 - November 2016
+
+## Experience
+
+Presidential Fiscal Policy and Tax Reforms Committee (PFPTRC) | Policy Research | August 2023 - present
+
+Nigerian Economic Summit Group (NESG)| Economist / Policy Researcher| March 2023 - Present
+
+Federal University Dutsin-Ma| Assistant Lecturer| November 2020 - March 2023
+
