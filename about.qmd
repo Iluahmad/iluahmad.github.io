@@ -15,7 +15,7 @@ editor:
     wrap: 72
 ---
 
-About this site I am Ahmad Ibraheem Ilu born and raised in Kano,
+I am Ahmad Ibraheem Ilu born and raised in Kano,
 Nigeria. I had all my previous education here in Nigeria, Undergraduate
 training at Northwest University Kano, and Postgraduate Studies to
 obtain M.Sc in Economics at Bayero University, Kano. I am currently an
@@ -94,18 +94,3 @@ Graduate Assistant and Assistant Lecturer; teaching various
 undergraduate courses and supervising dissertations at the Federal
 University of Dutsin-Ma.
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit
-<https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1 + 1
-```
-
-```{r}
-1 + 1
-```
-
-links: - icon: twitter text: twitter href: https://twitter.com - icon:
-github text: Github href: https://github.com
