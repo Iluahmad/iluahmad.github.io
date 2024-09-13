@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1 + 1\n\n[1] 3\n\n\n\n1 + 1\n\n[1] 2\n\n\nlinks: - icon: twitter text: twitter href: https://twitter.com - icon: github text: Github href: https://github.com"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mr. Ahmad Ilu",
+    "section": "",
+    "text": "Ahmad Ibraheem Ilu is an Economist and a Policy Researcher at the Nigerian Economic Summit Group (NESG). Ahmad Ilu is passionate on specializing in research on Macroeconomic Models such as DSGE-based models, Financial Economics, Monetary Economics, Applied Econometrics, and Islamic Economics. My extensive knowledge and experience have enabled me to participate in interviews on various live TV programs, where I analyze and discuss contemporary Macroeconomic issues, financial markets, and monetary and fiscal policies. I am proficient in the use of various:\n• Document Preparation Software: Microsoft Word, PowerPoint, Excel, Latex, and R Markdown\n• Statistical software tools: (R & RStudio), Python, EViews, STATA, Matlab, and Dynare."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Mr. Ahmad Ilu",
+    "section": "Education",
+    "text": "Education\nBayero University Kano, BUK | Kano, Nigeria Msc Economics | March 2018 - December 2020\nNorthwest University Kano | Kano, Nigeria BSc Economics | March 2012 - November 2016"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Mr. Ahmad Ilu",
+    "section": "Experience",
+    "text": "Experience\nPresidential Fiscal Policy and Tax Reforms Committee (PFPTRC) | Policy Research | August 2023 - present\nNigerian Economic Summit Group (NESG)| Economist / Policy Researcher| March 2023 - Present\nFederal University Dutsin-Ma| Assistant Lecturer| November 2020 - March 2023"
+  },
+  {
+    "objectID": "Publications.html",
+    "href": "Publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "# Publications\nHere are some of my selected publications:\n1. Geospatial Beamer\nDownload PDF\nPresented August, 2024.\n2. Inflation Flashnotes\nDownload PDF\nPresented on June, 2024."
+  },
+  {
+    "objectID": "Data.html",
+    "href": "Data.html",
+    "title": "Data",
+    "section": "",
+    "text": "Inflation Flashnotes Data Set\nDownload Data\nGeospatial Beamer Data\nDownload Data"
+  }
+]
