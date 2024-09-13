@@ -11,9 +11,9 @@ website:
         text: Home
       - about.qmd
       - Publications.qmd
-      - href: data
+      - href: Data.qmd
         text: Data 
-      - href: codes and Charts
+      - href: codes
         text: Codes and Charts
         
 format:
