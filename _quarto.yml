@@ -13,7 +13,7 @@ website:
       - Publications.qmd
       - href: Data.qmd
         text: Data 
-      - href: codes
+      - href: Codes.qmd
         text: Codes and Charts
         
 format:
