@@ -11,7 +11,9 @@ links:
     - icon: github
       text: Github
       href: https://github.com
-    
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/ahmadilu
 ---
 
 Ahmad Ibraheem Ilu is an Economist and a Policy Researcher at the Nigerian Economic Summit Group (NESG). Ahmad Ilu is passionate on specializing in research on Macroeconomic Models such as DSGE-based models, Financial Economics, Monetary Economics, Applied Econometrics, and Islamic Economics. My extensive knowledge and experience have enabled me to participate in interviews on various live TV programs, where I analyze and discuss contemporary Macroeconomic issues, financial markets, and monetary and fiscal policies.

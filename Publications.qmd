@@ -2,3 +2,19 @@
 title: "Publications"
 editor: visual
 ---
+
+\# Publications
+
+Here are some of my selected publications:
+
+1\. **Geospatial Beamer**
+
+[Download PDF](Beamer-Geospatial.pdf)
+
+Presented August, 2024.
+
+2\. **Inflation Flashnotes**
+
+[Download PDF](Inflation Flashnotes.pdf)
+
+Presented on June, 2024.

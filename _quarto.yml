@@ -11,6 +11,11 @@ website:
         text: Home
       - about.qmd
       - Publications.qmd
+      - href: data
+        text: Data 
+      - href: codes and Charts
+        text: Codes and Charts
+        
 format:
   html:
     theme: sandstone
