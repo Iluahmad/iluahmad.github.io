@@ -1,0 +1,8 @@
+---
+title: "Codes"
+editor: visual
+---
+
+[Download Energy Model Codes](Energy Model.R)
+
+[Download Inflation Workfile](inflation flash note.wf1)
