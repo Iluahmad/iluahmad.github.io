@@ -7,14 +7,30 @@ editor: visual
 
 Here are some of my selected publications:
 
-1\. **Geospatial Beamer**
+1.  **Geospatial Beamer**
 
-[Download PDF](Beamer-Geospatial.pdf)
+[Download PDF](Beamer-Geospatial.pdf) Presented August, 2024.
 
-Presented August, 2024.
+2.   **Inflation Flashnotes**
 
-2\. **Inflation Flashnotes**
+    [Download PDF](Inflation%20Flashnotes.pdf) Presented on July, 2024.
 
-[Download PDF](Inflation Flashnotes.pdf)
+3.  **Unraveling the Price Puzzle**
 
-Presented on June, 2024.
+    [Download PDF](Unraveling the Price Puzzle.pdf) Presented on June, 2024.
+
+4.   **Exchange Rate Pass-through to Stock Prices: A Multi GARCH Approach**
+
+    [Download PDF](https://mpra.ub.uni-muenchen.de/98442/1/MPRA_paper_98442.pdf) 2020
+
+5.   **Oil Price Volatility and Exchange Rate Dynamics in Nigeria: A Markov Switching Approach**
+
+    [Download PDF](https://mpra.ub.uni-muenchen.de/97643/1/MPRA_paper_97643.pdf) 2020
+
+6.   **Analysis of the nexus between Environmental Quality and Economic growth**
+
+    [Download PDF](https://mpra.ub.uni-muenchen.de/97369/1/MPRA_paper_97369.pdf)
+
+7.   **Impact of Remittances from Nigerians in diaspora on Exchange rate Stability**
+
+    [Download PDF](https://mpra.ub.uni-muenchen.de/97555/1/MPRA_paper_97555.pdf)
