@@ -6,6 +6,8 @@ project:
 website:
   title: "Iluahmad"
   navbar:
+    back-to-top-navigation: true
+    page-footer: "Copyright 2024, Ahmad Ilu" 
     left:
       - href: index.qmd
         text: Home
@@ -15,7 +17,17 @@ website:
         text: Data 
       - href: Codes.qmd
         text: Codes and Charts
+    tools:
+      - icon: twitter
+        href: https://twitter/IluAhmad_.com
+      - icon: github
+        menu:
+          - text: Source Code
+            href:  https://code.com
+          - text: Report a Bug
+            href:  https://bugs.com
         
+ 
 format:
   html:
     theme: sandstone
