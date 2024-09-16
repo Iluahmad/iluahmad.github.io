@@ -9,8 +9,8 @@ editor: visual
 
 [Charts](Charts)
 
-![Inflation forecast August - November,2024](images/Inflation figures-01.png)
+![Inflation forecast August - November,2024](images/Inflation%20figures-01.png)
 
 ![Inflation Forecast for June 2024](images/forecast0222.png)
 
-![Nigeria's Access to Basic Water](images/WhatsApp Image 2024-09-15 at 22.32.53_80517b32.jpg)
+![Nigeria's Access to Basic Water](images/WhatsApp%20Image%202024-09-15%20at%2022.32.53_80517b32.jpg)
