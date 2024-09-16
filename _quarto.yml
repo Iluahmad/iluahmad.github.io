@@ -23,9 +23,9 @@ website:
       - icon: github
         menu:
           - text: Source Code
-            href:  https://code.com
+            href: https://github.com/Iluahmad/Academic-Profile
           - text: Report a Bug
-            href:  https://bugs.com
+            href:  https://github.com/Iluahmad
         
  
 format:
