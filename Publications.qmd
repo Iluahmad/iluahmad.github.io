@@ -45,4 +45,4 @@ Here are some of my selected publications:
 
 8.  Energy Subsidy Model
 
-    [Download PDF]("C:\Users\Ahmad Ilu\Desktop\PC\Lenovo 2023\ACCER 2020\RESEARCH COLLECTION\Rstudio\GitHub\WEBSITE\Iluahmad\docs\Energy Subsidy.pdf" "Energy Subsidy Model") Presented October, 2024.
+    [Download PDF](Energy Subsidy.pdf "Energy Subsidy Model") Presented October, 2024.
