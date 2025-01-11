@@ -13,7 +13,7 @@ Here are some of my selected publications:
 
 2.  **Inflation Flashnotes**
 
-    [Download PDF](Inflation Flash note.pdf)
+    [Download PDF](Inflation%20Flash%20note.pdf)
 
 3.  **Unraveling the Price Puzzle**
 
@@ -42,3 +42,7 @@ Here are some of my selected publications:
 ```         
 [Download PDF](https://mpra.ub.uni-muenchen.de/97555/1/MPRA_paper_97555.pdf)
 ```
+
+8.  Energy Subsidy Model
+
+    [Download PDF]("C:\Users\Ahmad Ilu\Desktop\PC\Lenovo 2023\ACCER 2020\RESEARCH COLLECTION\Rstudio\GitHub\WEBSITE\Iluahmad\docs\Energy Subsidy.pdf" "Energy Subsidy Model") Presented October, 2024.
