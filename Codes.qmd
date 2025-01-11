@@ -7,6 +7,8 @@ editor: visual
 
 [Download Inflation Workfile](inflation%20flash%20note.wf1)
 
+[Download Energy Subsidy Model]("C:\Users\Ahmad Ilu\Desktop\PC\Lenovo 2023\ACCER 2020\RESEARCH COLLECTION\Latex Practice\Energy Conference\Energy Subsidy.tex")
+
 [Charts](Charts)
 
 ![Inflation forecast August - November,2024](images/Inflation%20figures-01.png)
