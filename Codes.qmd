@@ -17,17 +17,11 @@ editor: visual
 
 # **Macro Indicators**
 
-![](Macro.gif)
+![Macro GIF](images/Macro.gif)
 
-![](docs/GDP_Per%20Capita.gif)
+![GDP Per Capita](images/GDP_Per Capita.gif)
 
-![](docs/Exchange%20Rate.gif)
-
-![]()
-
-![]()
-
-![]()
+![Exchange Rate](images/Exchange Rate.gif)
 
 ![Inflation forecast August - November,2024](images/Inflation%20figures-01.png){width="635"}
 

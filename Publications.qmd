@@ -45,4 +45,4 @@ Here are some of my selected publications:
 
 8.  Energy Subsidy Model
 
-    [Download PDF](Energy Subsidy.pdf "Energy Subsidy Model") Presented October, 2024.
+    [Download PDF](Energy%20Subsidy.pdf "Energy Subsidy Model") Presented October, 2024.
