@@ -11,13 +11,15 @@ editor: visual
 
 [Download Sample Nigerian Macro Model](NG_model.mod)
 
+[Download Bayesian VAR Model](Bayesian VAR Model.r)
+
 [Charts](Charts)
 
 ![](Macro.gif)
 
-![](docs/GDP_Per Capita.gif)
+![](docs/GDP_Per%20Capita.gif)
 
-![](docs/Exchange Rate.gif)
+![](docs/Exchange%20Rate.gif)
 
 ![Inflation forecast August - November,2024](images/Inflation%20figures-01.png)
 
