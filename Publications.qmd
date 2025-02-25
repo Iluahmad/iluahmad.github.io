@@ -19,30 +19,7 @@ Here are some of my selected publications:
 
     [Download PDF](Unraveling%20the%20Price%20Puzzle.pdf) Presented on June, 2024.
 
-4.  **Exchange Rate Pass-through to Stock Prices: A Multi GARCH Approach**
 
-```         
-[Download PDF](https://mpra.ub.uni-muenchen.de/98442/1/MPRA_paper_98442.pdf) 2020
-```
-
-5.  **Oil Price Volatility and Exchange Rate Dynamics in Nigeria: A Markov Switching Approach**
-
-```         
-[Download PDF](https://mpra.ub.uni-muenchen.de/97643/1/MPRA_paper_97643.pdf) 2020
-```
-
-6.  **Analysis of the nexus between Environmental Quality and Economic growth**
-
-```         
-[Download PDF](https://mpra.ub.uni-muenchen.de/97369/1/MPRA_paper_97369.pdf)
-```
-
-7.  **Impact of Remittances from Nigerians in diaspora on Exchange rate Stability**
-
-```         
-[Download PDF](https://mpra.ub.uni-muenchen.de/97555/1/MPRA_paper_97555.pdf)
-```
-
-8.  Energy Subsidy Model
+4.  Energy Subsidy Model
 
     [Download PDF](Energy%20Subsidy.pdf "Energy Subsidy Model") Presented October, 2024.

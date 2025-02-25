@@ -15,7 +15,7 @@ editor: visual
 
 [Charts](Charts)
 
-# **Macro Indicators**
+# **Macro Indicators (c) **
 
 ![Macro GIF](images/Macro.gif)
 
