@@ -6,7 +6,7 @@ about:
   template: trestles
 links:
     - icon: twitter
-      text: twitter
+      text: Twitter
       href: https://twitter.com
     - icon: github
       text: Github
