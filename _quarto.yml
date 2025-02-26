@@ -11,8 +11,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - Publications.qmd
+      - href: about.qmd
+        text: About
+      - href: Publications.qmd
+        text: Home
       - href: Data.qmd
         text: Data 
       - href: Codes.qmd
