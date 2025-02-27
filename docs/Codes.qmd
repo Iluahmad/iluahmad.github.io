@@ -13,21 +13,18 @@ editor: visual
 
 [Download Bayesian VAR Model](Bayesian%20VAR%20Model.r)
 
-[Bayesian Linear Regression.r](Bayesian Linear Regression.r)
+[Bayesian Linear Regression.r](Bayesian%20Linear%20Regression.r)
 
 [Charts](Charts)
 
 # **Macro Indicators (c)**
 
-[![](docs/Macro.gif)](Macro.gif)
 
-![Macro GIF](images/Macro.gif)
+![](Macro.gif)
 
-![GDP Per Capita](images/GDP_Per%20Capita.gif)
+![](GDP_Per Capita.gif)
 
-![Exchange Rate](images/Exchange%20Rate.gif)
-
-![](Exchange Rate.gif)
+![](Exchange%20Rate.gif)
 
 ![Inflation forecast August - November,2024](images/Inflation%20figures-01.png){width="635"}
 
