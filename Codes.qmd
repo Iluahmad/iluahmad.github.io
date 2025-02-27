@@ -15,13 +15,15 @@ editor: visual
 
 [Charts](Charts)
 
-# **Macro Indicators (c) **
+# **Macro Indicators (c)**
 
 ![Macro GIF](images/Macro.gif)
 
-![GDP Per Capita](images/GDP_Per Capita.gif)
+![GDP Per Capita](images/GDP_Per%20Capita.gif)
 
-![Exchange Rate](images/Exchange Rate.gif)
+![Exchange Rate](images/Exchange%20Rate.gif)
+
+![](Exchange Rate.gif)
 
 ![Inflation forecast August - November,2024](images/Inflation%20figures-01.png){width="635"}
 
