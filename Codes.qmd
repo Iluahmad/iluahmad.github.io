@@ -13,9 +13,13 @@ editor: visual
 
 [Download Bayesian VAR Model](Bayesian%20VAR%20Model.r)
 
+[Bayesian Linear Regression.r](Bayesian Linear Regression.r)
+
 [Charts](Charts)
 
 # **Macro Indicators (c)**
+
+[![](docs/Macro.gif)](Macro.gif)
 
 ![Macro GIF](images/Macro.gif)
 
