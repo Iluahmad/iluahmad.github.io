@@ -60,7 +60,7 @@ detailed in my C.V. The Research Papers are
 
 -   Oil Price Volatility and Exchange Rate Dynamics (2019).
 
--    Exchange Pass-Through to Stock Prices: A Multi-GARCH
+-    Exchange Pass-Through to Stock Prices: A Multi -GARCH
     Approach(2020).
 
 Also given my enthusiasm and zeal toward research in Economics, I have
