@@ -19,10 +19,9 @@ editor: visual
 
 # **Macro Indicators (c)**
 
-
 ![](Macro.gif)
 
-![](GDP_Per Capita.gif)
+![](GDP_Per%20Capita.gif)
 
 ![](Exchange%20Rate.gif)
 
