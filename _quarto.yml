@@ -6,19 +6,19 @@ project:
 website:
   title: "Iluahmad"
   navbar:
+    search: true
     back-to-top-navigation: true
     page-footer: "Copyright 2024, Ahmad Ilu" 
+  
     left:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: About
-      - href: Publications.qmd
-        text: Publications
-      - href: Data.qmd
-        text: Data 
-      - href: Codes.qmd
-        text: Codes and Charts
+        - text: "Home"
+          href: index.qmd
+        - about.qmd
+        - About.qmd
+        - Publications.qmd
+        - Data.qmd 
+        - Codes.qmd
+         
     tools:
       - icon: twitter
         href: https://x.com/IluAhmad_
