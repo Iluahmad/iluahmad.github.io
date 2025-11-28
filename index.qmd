@@ -22,6 +22,11 @@ Ahmad Ibraheem Ilu is an Economist and a Policy Researcher at the Nigerian Econo
 
 • Statistical software tools: (R & RStudio), Python, EViews, STATA, Matlab, and Dynare.
 
+::: {.text-center}
+[Download CV](files/ilu_cv_2025.pdf){.btn .btn-primary .btn-lg}
+:::
+
+
 ## Education
 
 Bayero University Kano, BUK \| Kano, Nigeria Msc Economics \| March 2018 - December 2020
