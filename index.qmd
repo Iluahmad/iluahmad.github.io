@@ -25,7 +25,7 @@ Ahmad Ibraheem Ilu is an Economist and a Policy Researcher at the Nigerian Econo
 ::: {.text-center}
 [Download CV](files/ilu_cv_2025.pdf){.btn .btn-primary .btn-lg}
 :::
-
+[Download CV](files/ilu_cv_2025.pdf)
 
 ## Education
 
