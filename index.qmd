@@ -23,7 +23,7 @@ Ahmad Ibraheem Ilu is an Economist and a Policy Researcher at the Nigerian Econo
 • Statistical software tools: (R & RStudio), Python, EViews, STATA, Matlab, and Dynare.
 
 ::: {.text-center}
-[Download CV]("C:\Users\Ahmad Ilu\OneDrive - The Nigerian Economic Summit Group (NESG)\Desktop\PC\Lenovo 2023\ACCER 2020\RESEARCH COLLECTION\Rstudio\GitHub\WEBSITE\Iluahmad\files\ilu_cv_2025.pdf.pdf"){.btn .btn-primary .btn-lg}
+[Download CV](files/ilu_cv_2025.pdf){.btn .btn-primary .btn-lg}
 :::
 
 ## Education
