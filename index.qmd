@@ -22,10 +22,9 @@ Ahmad Ibraheem Ilu is an Economist and a Policy Researcher at the Nigerian Econo
 
 • Statistical software tools: (R & RStudio), Python, EViews, STATA, Matlab, and Dynare.
 
-::: {.text-center}
-[Download CV](files/ilu_cv_2025.pdf){.btn .btn-primary .btn-lg}
+::: text-center
+[Download CV](files/AHMAD_ILU_2026_CV.pdf){.btn .btn-primary .btn-lg}
 :::
-
 
 ## Education
 
@@ -45,7 +44,11 @@ Century Care LTD\| Marketing Manager \| November 2017 - March 2023\|
 
 ## AWARDS & HONORS
 
+-   IMF — Financial Programming & Policies (FPP.1x) | 2025 
+-   IMF — Macroeconomics of Climate: Green Public Finance | 2025 
 -   Mckinsey Forward Program July, 2024
 -   CFA Institute (Investment Program) July, 2020
+
+
 
 [![Scan to Save my Contact](images/WhatsApp%20Image%202024-09-12%20at%2018.50.25_b7dd765d.jpg)](Contact%20Details)
