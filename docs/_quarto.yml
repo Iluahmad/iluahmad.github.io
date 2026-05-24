@@ -1,0 +1,50 @@
+project:
+  type: website
+
+website:
+  title: "Ahmad Ilu"
+
+  navbar:
+    search: true
+    back-to-top-navigation: true
+
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Data"
+        href: data.qmd
+      - text: "Codes"
+        href: codes.qmd
+
+    right:
+      - text: "CV"
+        href: files/Ahmad_Ibraheem_Ilu_CV.pdf
+        icon: file-earmark-person
+
+      - icon: twitter
+        href: https://x.com/IluAhmad_
+
+      - icon: github
+        menu:
+          - text: "Source Code"
+            href: https://github.com/Iluahmad/Academic-Profile
+          - text: "Report a Bug"
+            href: https://github.com/Iluahmad
+
+  page-footer: 
+    left: "Copyright 2024, Ahmad Ilu"
+    right: 
+      - icon: github
+        href: https://github.com/Iluahmad
+      - icon: twitter
+        href: https://x.com/IluAhmad_
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    smooth-scroll: true
