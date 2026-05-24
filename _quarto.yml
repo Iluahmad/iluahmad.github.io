@@ -15,11 +15,11 @@ website:
       - text: "About"
         href: about
       - text: "Publications"
-        href: publications
+        href: Publications
       - text: "Data"
-        href: data
+        href: Data
       - text: "Codes"
-        href: codes
+        href: Codes
 
     right:
       - text: "CV"
