@@ -5,8 +5,8 @@
 # -----------------------------
 # 1. Set your repository path
 # -----------------------------
-repo_path <- "C:/Users/Ahmad Ilu/OneDrive - The Nigerian Economic Summit Group (NESG)/Desktop/PC/Lenovo 2023/ACCER 2020/RESEARCH COLLECTION/Rstudio/GitHub/WEBSITE/Iluahmad"
-setwd(repo_path)
+repo_path <- getwd()
+
 message("Working directory set to: ", repo_path)
 
 # -----------------------------
