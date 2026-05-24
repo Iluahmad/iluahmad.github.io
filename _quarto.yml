@@ -15,11 +15,11 @@ website:
       - text: "About"
         href: about
       - text: "Publications"
-        href: Publications
-      - text: "Data"
-        href: Data
+        href: Publications.qmd
+      - text: "Data"    
+        href: Data.qmd
       - text: "Codes"
-        href: Codes
+        href: Codes.qmd
 
     right:
       - text: "CV"
