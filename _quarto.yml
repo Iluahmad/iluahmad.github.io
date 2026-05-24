@@ -22,7 +22,7 @@ website:
 
     right:
       - text: "CV"
-        href: files/Ahmad_Ibraheem_Ilu_CV.pdf
+        href: Ahmad_Ibraheem_Ilu_CV.pdf
         icon: file-earmark-person
 
       - icon: twitter
