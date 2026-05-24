@@ -10,15 +10,15 @@ website:
 
     left:
       - text: "Home"
-        href: index.qmd
+        href: index
       - text: "About"
-        href: about.qmd
+        href: about
       - text: "Publications"
-        href: publications.qmd
+        href: publications
       - text: "Data"
-        href: data.qmd
+        href: data
       - text: "Codes"
-        href: codes.qmd
+        href: codes
 
     right:
       - text: "CV"
@@ -26,22 +26,22 @@ website:
         icon: file-earmark-person
 
       - icon: twitter
-        href: https://x.com/IluAhmad_
+        href: "https://x.com/IluAhmad_"
 
       - icon: github
         menu:
           - text: "Source Code"
-            href: https://github.com/Iluahmad/Academic-Profile
+            href: "https://github.com/Iluahmad/Academic-Profile"
           - text: "Report a Bug"
-            href: https://github.com/Iluahmad
+            href: "https://github.com/Iluahmad"
 
-  page-footer: 
-    left: "Copyright 2024, Ahmad Ilu"
-    right: 
+  page-footer:
+    left: "© 2024 Ahmad Ilu"
+    right:
       - icon: github
-        href: https://github.com/Iluahmad
+        href: "https://github.com/Iluahmad"
       - icon: twitter
-        href: https://x.com/IluAhmad_
+        href: "https://x.com/IluAhmad_"
 
 format:
   html:

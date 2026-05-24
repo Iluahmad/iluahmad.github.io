@@ -3,10 +3,10 @@ title: "Data"
 editor: visual
 ---
 
--   **Inflation Flashnotes Data Set**
+Here are datasets associated with my research:
 
-    [Download Data](Inflation%20Flash%20note.xlsx)
+- **Inflation Flashnotes Dataset**  
+  [Download Data](Inflation%20Flash%20note.xlsx)
 
--   **Geospatial Beamer Data**
-
-    [Download Data](NGAStates.xlsx)
+- **Geospatial Beamer Data**  
+  [Download Data](NGAStates.xlsx)
