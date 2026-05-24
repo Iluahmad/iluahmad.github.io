@@ -45,6 +45,6 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: pulse
     toc: true
     smooth-scroll: true
