@@ -1,6 +1,23 @@
 ---
 title: "Codes"
+
+links:
+  - icon: twitter
+    text: "Twitter"
+    href: "https://x.com/IluAhmad_"
+
+  - icon: github
+    text: "Github"
+    href: "https://github.com/Iluahmad"
+
+  - icon: envelope
+    text: "Email"
+    href: "mailto:iluahmad7@yahoo.com"
+
 editor: visual
+
+markdown:
+  wrap: 72
 ---
 
 [Download Energy Model Codes](Energy%20Model.R)
