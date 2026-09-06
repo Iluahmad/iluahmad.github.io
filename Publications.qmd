@@ -40,7 +40,7 @@ Here are some of my selected publications:
     *Presented October, 2024*
 
 5.  **The Nigerian Economy In 2025 And Beyond**\
-    [Download PDF](Economic%20Report%202024.pdf "The Nigerian Economy In 2025 And Beyond")\
+    [Download PDF](Economic Report 2024.pdf "The Nigerian Economy In 2025 And Beyond")\
     Economic Report, Office of the Vice President, Federal Republic of Nigeria\
     *Published December, 2024*
 
@@ -54,6 +54,6 @@ Here are some of my selected publications:
     *Presented May, 2026*
 
 8.  **Policy Inclusion and Advocacy Lab**\
-    [Download PDF](Policy%20Inclusion%20and%20Advocacy%20Lab.pdf)
+    [Download PDF](Policy Inclusion and Advocacy Lab.pdf)
 
     *Presented August, 2026*
