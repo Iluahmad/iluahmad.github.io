@@ -20,6 +20,8 @@ website:
         href: Data.qmd
       - text: "Codes"
         href: Codes.qmd
+      - text: "Media & Talks"
+        href: Media.qmd
 
     right:
       - text: "CV"

@@ -1,0 +1,26 @@
+---
+title: "Media & Talks"
+---
+
+# Media & Talks
+
+Selected presentations, interviews, and public discussions on economic and policy issues.
+
+## Access to Finance
+
+### Bridging the Financing Gap
+
+In this talk, I discuss the challenges businesses face in accessing finance, the financing gap affecting MSMEs, and the role of financial institutions and credit guarantee mechanisms in expanding access to productive credit.
+
+**Presented: September 2026**
+
+<video controls width="100%">
+  <source src="Access%20to%20Finance.mp4" type="video/quicktime">
+  Your browser does not support the video tag.
+</video>
+
+---
+
+## Other Talks & Media Appearances
+
+More presentations, interviews, and policy discussions will be added here.
