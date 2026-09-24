@@ -15,9 +15,9 @@ In this talk, I discuss the challenges businesses face in accessing finance, the
 **Presented: September 2026**
 
 <video controls width="100%">
-  <source src="Access%20to%20Finance.mp4" type="video/quicktime">
-  Your browser does not support the video tag.
+  <source src="Media/Access to Finance.mp4" type="video/mp4">
 </video>
+
 
 ---
 
